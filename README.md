@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthew4644
+- 👋 Hi, I’m Matthew
 - 👀 I’m interested in software and web development.
 - 🌱 I’m currently learning to become a full stack software engineer.
 - ⚡ Fun fact: I like to play guitar, piano, and bass guitar for fun.
